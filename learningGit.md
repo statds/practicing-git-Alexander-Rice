@@ -37,3 +37,5 @@ Extend your GitHub reach through integrations, or by installing GitHub Desktop a
 Learn how to launch and grow your open source project with the Open Source Guides.
 This is a test for committing woohoo! 
 This is test number two to see how things are going.
+
+This is number three, now going from browser back to my computer (vscode). Woohoo!
