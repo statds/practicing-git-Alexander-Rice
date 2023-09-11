@@ -39,3 +39,5 @@ This is a test for committing woohoo!
 This is test number two to see how things are going.
 
 This is number three, now going from browser back to my computer (vscode). Woohoo!
+
+For the branch thing commit stuff 12345
